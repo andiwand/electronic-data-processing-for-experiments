@@ -1,6 +1,0 @@
-10.10.2018, UE01, 19, Mayer Stefl
-
-projekt1.py     GPS Beispiel, Strecke durch Orthodrome berechnet, Fläche und Schwepunkt durch Monte Carlo Methode inkl. Gewichtung der Punkte mit sin(theta)
-projekt2.py     CPU Load
-stress.py       Zum Testen von projekt2.py, Lastet alle Kerne aus
-
